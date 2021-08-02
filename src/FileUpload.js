@@ -11,7 +11,7 @@ function FileUpload(){
         setSelectedFile(e)
         
     }
-    console.log(selectedFile)
+   // console.log(selectedFile)
     const papaparseOptions = {
         header: true,
         dynamicTyping: true,
